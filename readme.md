@@ -5,7 +5,7 @@ A brochure for introducing people to the game of Go.
 * 2-sided bi-fold
 * paper size: ANSI A (US Letter)
 * print-ready PDF: [go-handout_2016+3mmbleed.pdf](go-handout_2016+3mmbleed.pdf)
-* standard envelope label stickers can be used to replace location details on the back
+* standard envelope address stickers can be used to replace location details on the back
 
 |recommended paper type: | min| best* | max |
 |---|---|---|---|

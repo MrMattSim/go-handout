@@ -15,7 +15,7 @@ A brochure for introducing people to the game of Go.
 
 \* _probably the best weight, I'll update after we print some. The in-house proofs on 80lb are nice but the fold has a bit too much spring._
 
-![front](go-handout_front.png  "front")![interior](go-handout_interior.png  "interior")![back](go-handout_back.png  "back")
+![front](go-handout_front.png  "front") ![interior](go-handout_interior.png  "interior") ![back](go-handout_back.png  "back")
 
 #### Required fonts
 * [Monotype Forte](https://www.myfonts.com/fonts/type-type/tt-drugs/)

@@ -13,7 +13,7 @@ A brochure for introducing people to the game of Go.
 | approx. GSM: | 160  | 175 | 215 |
 | approx. points| 7pt | 8pt | 10pt |
 
-<small>* _probably the best weight, I'll update after we print some. The in-house proofs on 80lb are nice but the fold has a bit too much spring._</small>
+\* _probably the best weight, I'll update after we print some. The in-house proofs on 80lb are nice but the fold has a bit too much spring._
 
 ![front](go-handout_front.png  "front")![interior](go-handout_interior.png  "interior")![back](go-handout_back.png  "back")
 

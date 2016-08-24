@@ -37,9 +37,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="88.288308"
-     inkscape:cx="626.91542"
-     inkscape:zoom="0.70710678"
+     inkscape:cy="233.31192"
+     inkscape:cx="602.43754"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -10702,6 +10702,46 @@
        y1="292.21671"
        x2="274.07138"
        y2="292.21671" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#spot-indigo-4"
+       id="linearGradient7287"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0031914,0,0,1.0024023,-19.90799,-0.42572955)"
+       x1="-28.881323"
+       y1="133.34563"
+       x2="-24.843889"
+       y2="133.34563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#spot-indigo-4"
+       id="linearGradient7295"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0031914,0,0,1.0024023,-19.90799,-0.42572955)"
+       x1="-28.881323"
+       y1="133.34563"
+       x2="-24.843889"
+       y2="133.34563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#spot-indigo-4"
+       id="linearGradient7303"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0031914,0,0,1.0024023,-19.90799,-0.42572955)"
+       x1="-28.881323"
+       y1="133.34563"
+       x2="-24.843889"
+       y2="133.34563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#spot-indigo-4"
+       id="linearGradient7311"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0031914,0,0,1.0024023,-19.90799,-0.42572955)"
+       x1="-28.881323"
+       y1="133.34563"
+       x2="-24.843889"
+       y2="133.34563" />
   </defs>
   <metadata
      id="metadata5">
@@ -12782,7 +12822,7 @@
     </g>
     <g
        id="g16586"
-       transform="translate(162.46712,-84.091152)"
+       transform="translate(158.46712,-84.091152)"
        style="display:inline">
       <g
          id="g16584"
@@ -13712,7 +13752,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(122.46712,-84.091152)"
+       transform="translate(118.46712,-84.091152)"
        id="g16944">
       <g
          transform="translate(92.05624,143.08023)"
@@ -14620,7 +14660,7 @@
     </g>
     <g
        id="g17294"
-       transform="translate(122.46712,-34.582153)"
+       transform="translate(118.46712,-34.582153)"
        style="display:inline">
       <g
          id="g17292"
@@ -15648,7 +15688,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(162.46712,-133.22599)"
+       transform="translate(158.46712,-133.22599)"
        id="g17672">
       <g
          transform="translate(92.05624,143.08023)"
@@ -16160,7 +16200,7 @@
     </g>
     <g
        id="g17864"
-       transform="translate(122.46712,-133.22599)"
+       transform="translate(118.46712,-133.22599)"
        style="display:inline">
       <g
          id="g17862"
@@ -16822,7 +16862,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(162.46712,-34.582153)"
+       transform="translate(158.46712,-34.582153)"
        id="g18116">
       <g
          transform="translate(92.05624,143.08023)"
@@ -17615,6 +17655,22 @@
        d="m 187.66714,184.22954 7.99995,-2e-5 1e-5,7.99994 c 0,1.91765 1.56603,3.99995 3.99998,3.99995 l 1e-5,3.99996 c 0,2.19879 1.80169,3.99996 3.99998,3.99996 0,2.16419 1.74712,3.99995 3.99997,3.99995 l 2e-5,7.99996 h -7.99993 l -10e-6,-3.99996 c 0,-2.05797 -1.61276,-4.00017 -3.99997,-4.00017 0,-2.19879 -1.93353,-3.99975 -3.99999,-3.99975 l -3.99998,-1.9e-4 z"
        style="opacity:0.5;fill:url(#linearGradient66999);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient67001);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        sodipodi:nodetypes="cccccccccccccc" />
+    <g
+       id="g7293"
+       transform="translate(166.46712,-80.091152)"
+       style="display:inline">
+      <g
+         id="g7291"
+         transform="translate(92.05624,143.08023)">
+        <ellipse
+           ry="1.9734461"
+           rx="1.9749997"
+           cy="133.24023"
+           cx="-46.856323"
+           id="ellipse7289"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient7295);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </g>
     <path
        inkscape:connector-curvature="0"
        id="path66995"
@@ -17663,6 +17719,22 @@
          x="189.78835"
          y="263.62851"
          style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Heavy Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">8</tspan></text>
+    <g
+       style="display:inline"
+       transform="translate(166.46712,-30.582153)"
+       id="g7309">
+      <g
+         transform="translate(92.05624,143.08023)"
+         id="g7307">
+        <ellipse
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient7311);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="ellipse7305"
+           cx="-46.856323"
+           cy="133.24023"
+           rx="1.9749997"
+           ry="1.9734461" />
+      </g>
+    </g>
     <path
        sodipodi:nodetypes="ccccccccccccccc"
        style="opacity:0.5;fill:url(#linearGradient66791);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient66793);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -21127,6 +21199,38 @@
          id="tspan70895"
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7416);fill-opacity:1">Go is not a game of annihilation, but one of balance and compromise.</tspan></text>
+    <g
+       style="display:inline"
+       transform="translate(126.46712,-80.091152)"
+       id="g7285">
+      <g
+         transform="translate(92.05624,143.08023)"
+         id="g7283">
+        <ellipse
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient7287);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="ellipse7281"
+           cx="-46.856323"
+           cy="133.24023"
+           rx="1.9749997"
+           ry="1.9734461" />
+      </g>
+    </g>
+    <g
+       id="g7301"
+       transform="translate(126.46712,-30.582153)"
+       style="display:inline">
+      <g
+         id="g7299"
+         transform="translate(92.05624,143.08023)">
+        <ellipse
+           ry="1.9734461"
+           rx="1.9749997"
+           cy="133.24023"
+           cx="-46.856323"
+           id="ellipse7297"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient7303);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

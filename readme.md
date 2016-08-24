@@ -1,5 +1,7 @@
 # Go handout
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/MrMattSim/5)
+
 A brochure for introducing people to the game of Go.
 
 * 2-sided bi-fold
@@ -16,6 +18,8 @@ A brochure for introducing people to the game of Go.
 \* _probably the best weight, I'll update after we print some. The in-house proofs on 80lb are nice but the fold has a bit too much spring._
 
 ![front](go-handout_front.png  "front") ![interior](go-handout_interior.png  "interior") ![back](go-handout_back.png  "back")
+
+_Created in [Inkscape](https://inkscape.org) with some help from [GIMP](https://gimp.org)._
 
 #### Required fonts
 * [Monotype Forte](https://www.myfonts.com/fonts/type-type/tt-drugs/)

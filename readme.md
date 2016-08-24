@@ -1,6 +1,6 @@
 # Go handout
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/MrMattSim)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/MrMattSim)
 
 A brochure for introducing people to the game of Go.
 

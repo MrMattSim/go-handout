@@ -19,6 +19,8 @@ A brochure for introducing people to the game of Go.
 
 ![front](go-handout_front.png  "front") ![interior](go-handout_interior.png  "interior") ![back](go-handout_back.png  "back")
 
+_Created in Inkscape with some help from GIMP._
+
 #### Required fonts
 * [Monotype Forte](https://www.myfonts.com/fonts/type-type/tt-drugs/)
 * [TT Drugs](https://www.myfonts.com/fonts/type-type/tt-drugs/)

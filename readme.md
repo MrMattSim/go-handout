@@ -22,8 +22,8 @@ A brochure for introducing people to the game of Go.
 _Created in [Inkscape](https://inkscape.org) with some help from [GIMP](https://gimp.org)._
 
 #### Required fonts
-* [Monotype Forte](http://www.myfonts.com/fonts/mti/forte-mt/)
-* [TT Drugs](http://www.myfonts.com/fonts/type-type/tt-drugs/)
+* [Monotype Forte](https://www.myfonts.com/fonts/type-type/tt-drugs/)
+* [TT Drugs](https://www.myfonts.com/fonts/type-type/tt-drugs/)
 
 The files for TT Drugs that I had were split into discrete styles instead of under a single family name. So I use FontForge to edit the font info (Family, SubFamily, and OS/2 classes for good measure; don't know if that last one matters). The benefit is that Inkscape will group the whole family and manage style variations. The down side is that I can't distribute it and you'll need to fix any font issues.
 

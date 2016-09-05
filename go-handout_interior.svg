@@ -37,9 +37,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="341.09823"
-     inkscape:cx="788.12767"
-     inkscape:zoom="0.70710678"
+     inkscape:cy="285.79539"
+     inkscape:cx="673.60816"
+     inkscape:zoom="1.1568627"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -203,7 +203,7 @@
        id="spot-text-blackLevel-5"
        osb:paint="solid">
       <stop
-         style="stop-color:#373737;stop-opacity:1;"
+         style="stop-color:#191919;stop-opacity:1;"
          offset="0"
          id="stop7337" />
     </linearGradient>
@@ -10892,7 +10892,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12227,19 +12227,20 @@
        transform="matrix(2.0000025,0,0,2.0000025,-293.04494,-307.95075)"
        style="stroke-width:0.49999937" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,28.134467,116.39755)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:100%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.27351849,0,0,0.27351849,27.821634,115.88286)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:100%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.96733248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5448"
        xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:100%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:100%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.96733248px"
          id="flowRegion5442"><rect
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:100%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:100%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.96733248px"
            y="41.385864"
            x="34.771667"
            height="78.556236"
            width="272.66364"
            id="rect5440" /></flowRegion><flowPara
-         id="flowPara7303">is the most popular game in the world you've never heard of —</flowPara></flowRoot>    <text
+         id="flowPara7303"
+         style="stroke-width:0.96733248px">is the most popular game in the world you've never heard of —</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.67510986px;line-height:125%;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.55414832px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="8.8465319"
@@ -17624,7 +17625,7 @@
            y="41.385864"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7341);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7341);fill-opacity:1"
-         id="flowPara28630">In the beginning the board is empty. Players take turns adding a single stone to the board on any of the 361 line intersections. Black always goes first, but White starts with 7½ points as compensation, called komi. For simplicity we'll ignore komi in the examples that follow.</flowPara><flowPara
+         id="flowPara28630">In the beginning the board is empty. Players take turns adding a single stone to the board on any of the 361 line intersections. Black always goes first, but White starts with 7½ points as compensation For simplicity we'll ignore that in the examples below.</flowPara><flowPara
          id="flowPara6169-6"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7341);fill-opacity:1" /></flowRoot>    <text
        xml:space="preserve"
@@ -17651,10 +17652,8 @@
            height="72.059723"
            width="279.11072"
            id="rect14484-7" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.01px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7343);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowPara16935-1">A player occupies territory that they surround only if it cannot be captured or successfully invaded. When no useful moves remain, a player may pass. The game ends <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.2px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7343);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="flowSpan8292">when one player resigns, or both pass, one after the other.</flowSpan></flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7343);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara16935-1">A player controls territory that they surround only if it cannot be captured or successfully invaded. When no useful moves remain, a player may pass. The game ends when one player resigns, or both pass, one after the other.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient7345);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="147.12688"
@@ -17665,7 +17664,7 @@
          id="tspan19274"
          x="147.12688"
          y="115.98824"
-         style="fill-opacity:1;fill:url(#linearGradient7345)">Whoever occupies more of the board, wins!</tspan></text>
+         style="fill:url(#linearGradient7345);fill-opacity:1">Whoever controls more of the board, wins!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;fill:url(#linearGradient7347);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -17935,55 +17934,55 @@
        id="text29502"
        y="222.46945"
        x="147.49934"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583333px;line-height:115%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;fill:url(#linearGradient7349);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;fill:url(#linearGradient7349);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan70839"
          x="147.49934"
          y="222.46945"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7349);fill-opacity:1">The board looks like this, if we imagine the corners invaded. </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7349);fill-opacity:1">The board looks like this, if we imagine the corners invaded. </tspan><tspan
          sodipodi:role="line"
          id="tspan70841"
          x="147.49934"
          y="225.71501"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7349);fill-opacity:1">Of course, during a game players can invade only one stone </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7349);fill-opacity:1">Of course, during a game players can invade only one stone </tspan><tspan
          sodipodi:role="line"
          id="tspan70843"
          x="147.49934"
          y="228.96056"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7349);fill-opacity:1">at-a-time. Doing so without casualties can be risky, or futile..</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7349);fill-opacity:1">at-a-time. Doing so without casualties can be risky, or futile.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583333px;line-height:115%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;fill:url(#linearGradient7351);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;fill:url(#linearGradient7351);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="147.49934"
        y="272.48492"
        id="text29512"
        sodipodi:linespacing="115%"><tspan
          sodipodi:role="line"
-         id="tspan7290"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7351);fill-opacity:1"
-         x="147.49934"
-         y="272.48492">This final example imagines two more narrow invasions, </tspan><tspan
-         sodipodi:role="line"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7351);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.02645833px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7351);fill-opacity:1"
          x="147.49934"
          y="285.46713"
-         id="tspan8306">each worth 9 points. Neither player is willing to resign, but </tspan><tspan
+         id="tspan8306">This final example imagines two more narrow invasions, </tspan><tspan
          sodipodi:role="line"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7351);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.02645833px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7351);fill-opacity:1"
+         x="147.49934"
+         y="285.46713"
+         id="tspan7317">worth 9 points each. Neither player is willing to resign, but </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.02645833px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7351);fill-opacity:1"
          x="147.49934"
          y="285.46713"
          id="tspan8318">there is nowhere left to invade or expand, and none of the </tspan><tspan
          sodipodi:role="line"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7351);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.02645833px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7351);fill-opacity:1"
          x="147.49934"
          y="285.46713"
          id="tspan8324">groups can be captured. Both players pass, and the one </tspan><tspan
          sodipodi:role="line"
-         style="letter-spacing:0px;-inkscape-font-specification:'TTDrugs, Light';font-family:TTDrugs;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.64583333px;text-anchor:start;text-align:start;writing-mode:lr;line-height:115%;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:url(#linearGradient7351);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.02645833px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7351);fill-opacity:1"
          x="147.49934"
          y="285.46713"
-         id="tspan8338">who occupies more of the board is declared the winner!</tspan></text>
+         id="tspan8338">who controls more of the board is declared the winner!</tspan></text>
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient61163);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.18246107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="circle33763"
@@ -21337,11 +21336,11 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.8;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1270;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.27718252px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.01px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.01px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot7394"
        transform="translate(-0.03547603,-0.39687501)"><flowRegion
          id="flowRegion7396"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><use
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:114.99999762%;font-family:TTDrugs;-inkscape-font-specification:'TTDrugs, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><use
            x="0"
            y="0"
            xlink:href="#rect7375"
